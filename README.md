@@ -1,1 +1,1 @@
-Restaurant layout webpage.
+Restaurant layout webpage using HTML & CSS.
